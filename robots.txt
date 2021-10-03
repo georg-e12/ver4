@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://bismillahsiapp.vercel.app/top2.xml
+Sitemap: https://bismillahsiapp.vercel.app/top12.xml
 
